@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/humble/include/**",
+        "/home/francescavenditti/franka_ros2_ws/src/RoboticaProgetto/franka_ros2/franka_example_controllers/include/**",
+        "/home/francescavenditti/franka_ros2_ws/src/RoboticaProgetto/franka_ros2/franka_gripper/include/**",
+        "/home/francescavenditti/franka_ros2_ws/src/RoboticaProgetto/franka_ros2/franka_hardware/include/**",
+        "/home/francescavenditti/franka_ros2_ws/src/RoboticaProgetto/franka_ros2/franka_robot_state_broadcaster/include/**",
+        "/home/francescavenditti/franka_ros2_ws/src/RoboticaProgetto/franka_ros2/franka_semantic_components/include/**",
+        "/home/francescavenditti/franka_ros2_ws/src/RoboticaProgetto/franka_ros2/joint_trajectory_controller/include/**",
+        "/home/francescavenditti/franka_ros2_ws/src/RoboticaProgetto/unisa_acg_ros2/panda_forward_kinematics_demo/include/**",
+        "/home/francescavenditti/franka_ros2_ws/src/RoboticaProgetto/unisa_acg_ros2/panda_inverse_kinematics_demo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
